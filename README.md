@@ -37,3 +37,4 @@ Hi, I’m William Nisole, a junior front-end developer from France, working in P
 ## Get in touch
 * Personnal site : [https://wizai.fr/](https://wizai.fr/)
 * Email : [william.nisole@gmail.com](mailto:william/nisole@gmail.com).
+* Linkedin : [William Nisole](https://www.linkedin.com/in/william-nisole-01153a116/?originalSubdomain=fr)
