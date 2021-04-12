@@ -1,16 +1,39 @@
-### Hi there 👋
+# William Nisole - @Wizai
 
-<!--
-**wizai/wizai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m William Nisole, a junior front-end developer from France, working in Paris. Passionate, I try to learn and discover new things every day to create reliable web experience. I constantly try to level up my skills in various fields of digital creation, from web development to Design.
 
-Here are some ideas to get you started:
+🔭 **I’m currently looking for new opportunities.** <br>
+🌱 I'm currently learning TweenLite & TweenMax, Animations and API Plateform <br>
+😍 My hobbies are : playing sports, cooking and playing video games <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My values
+🍏 Beginner's mindset and curiosity<br>
+🙌 Sharing anything I learned<br>
+
+## That I know and use
+###  📚 Langues and Frameworks
+- HTML5, JavaScript
+- CSS3, SCSS, SASS
+- Material-ui, Bootstrap
+- Vue, Nuxt.js, Vuex, Vue-Router
+- Angular, React
+- PHP, SQL
+- Wordpress, Prestashop, Drupal
+- Symfony, Laravel
+
+### 🎨 Design
+- Sketch
+- Photoshop, Illustrator
+- Ui Design
+- Ux Design
+
+### 🔧 Tool
+- Git, Github, Gitlab
+- Jira
+- ClickUp
+- Mantis
+- Redmine
+
+## Get in touch
+* Personnal site : [https://wizai.fr/](https://wizai.fr/)
+* Email : [william.nisole@gmail.com](mailto:william/nisole@gmail.com).
