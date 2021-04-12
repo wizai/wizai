@@ -27,7 +27,7 @@ Hi, I’m William Nisole, a junior front-end developer from France, working in P
 - Ui Design
 - Ux Design
 
-### 🔧 Tool
+### 🔧 Tools
 - Git, Github, Gitlab
 - Jira
 - ClickUp
