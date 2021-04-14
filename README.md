@@ -35,6 +35,6 @@ Hi, I’m William Nisole, a junior front-end developer from France, working in P
 - Redmine
 
 ## Get in touch
-* Personnal site : [https://wizai.fr/](https://wizai.fr/){:target="_blank"}
+* Personnal site : [https://wizai.fr/](https://wizai.fr/)
 * Email : [william.nisole@gmail.com](mailto:william/nisole@gmail.com).
-* Linkedin : [William Nisole](https://www.linkedin.com/in/william-nisole-01153a116/?originalSubdomain=fr){:target="_blank"}
+* Linkedin : [William Nisole](https://www.linkedin.com/in/william-nisole-01153a116/?originalSubdomain=fr)
