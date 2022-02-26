@@ -2,7 +2,7 @@
 
 Hi, I’m William Nisole, a junior front-end developer from France, working in Paris. Passionate, I try to learn and discover new things every day to create reliable web experience. I constantly try to level up my skills in various fields of digital creation, from web development to Design.
 
-🔭 **I’m currently looking for new opportunities.** <br>
+🔭 **I’m currently working at Monisnap as creative front-end developer.** <br>
 🌱 I'm currently learning TweenLite & TweenMax, Animations and API Plateform <br>
 😍 My hobbies are : playing sports, cooking and playing video games <br>
 
